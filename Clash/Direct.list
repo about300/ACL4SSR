@@ -52,7 +52,6 @@ DOMAIN-SUFFIX,pttime.org
 # 自定义直连列表
 DOMAIN-SUFFIX,diyp.112114.xyz
 DOMAIN-SUFFIX,generationnexxxt.com
-DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,letsencrypt
 PROCESS-NAME,qbittorrent
 PROCESS-NAME,Qbittorrent
