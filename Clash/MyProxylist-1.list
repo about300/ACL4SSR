@@ -12,3 +12,7 @@ DOMAIN-KEYWORD,hkdvb
 DOMAIN-KEYWORD,video.mytvsuper.xyz
 DOMAIN-KEYWORD,nodeseek
 DOMAIN-KEYWORD,openai
+
+# Rockstar-Games
+- DOMAIN-SUFFIX,rockstargames,RockstarGames
+- DOMAIN-KEYWORD,rockstar,RockstarGames
