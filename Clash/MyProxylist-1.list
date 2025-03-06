@@ -14,5 +14,5 @@ DOMAIN-KEYWORD,nodeseek
 DOMAIN-KEYWORD,openai
 
 # Rockstar-Games
-- DOMAIN-SUFFIX,rockstargames,RockstarGames
-- DOMAIN-KEYWORD,rockstar,RockstarGames
+DOMAIN-SUFFIX,rockstargames,RockstarGames
+DOMAIN-KEYWORD,rockstar,RockstarGames
