@@ -3,6 +3,23 @@ DOMAIN-KEYWORD,imnks
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,-synology
 DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,dsmunas.com
+DOMAIN-SUFFIX,dsmunas.net
+DOMAIN-SUFFIX,dsmunas.org
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
+DOMAIN-SUFFIX,i234.me
+DOMAIN-SUFFIX,myds.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synodns.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.me
 
 # bt/pt网站列表
 DOMAIN-SUFFIX,hdzone.me
@@ -48,3 +65,4 @@ DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-KEYWORD,tracker
+
