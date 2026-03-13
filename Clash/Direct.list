@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,synodns.com
 DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,checkip.dyndns.org
 
 # bt/pt网站列表
 DOMAIN-SUFFIX,hdzone.me
@@ -65,4 +66,5 @@ DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-KEYWORD,tracker
+
 
