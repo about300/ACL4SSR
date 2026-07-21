@@ -67,6 +67,10 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-KEYWORD,tracker
 
-IP-CIDR6,2400::/8,DIRECT,no-resolve
-IP-CIDR6,::1/128,DIRECT,no-resolve
+IP-CIDR,2400::/16,DIRECT,
+IP-CIDR,::1/128,DIRECT,
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,checkipv6.synology.com
+DOMAIN-SUFFIX,ddns.synology.com
+
 
