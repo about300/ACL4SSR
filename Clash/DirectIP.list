@@ -3,3 +3,7 @@ IP-CIDR,131.107.255.255/32,no-resolve
 IP-CIDR,2400::/16,no-resolve
 IP-CIDR,::1/128,no-resolve
 IP-CIDR6,2604:a880:2:d0::/64,no-resolve
+IP-CIDR6,::1/128,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,2400::/4,no-resolve
