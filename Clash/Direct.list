@@ -72,4 +72,4 @@ DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,checkipv6.synology.com
 DOMAIN-SUFFIX,ddns.synology.com
 
-
+PROCESS-NAME,ddnsd
