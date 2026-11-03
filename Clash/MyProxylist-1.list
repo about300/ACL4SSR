@@ -1,0 +1,39 @@
+# MyProxylist自定义代理列表1
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,gstatic.com
+DOMAIN-KEYWORD,googleusercontent
+DOMAIN-SUFFIX,dl.google
+DOMAIN-SUFFIX,download.google
+DOMAIN-KEYWORD,googledownloads
+DOMAIN-KEYWORD,cnbeta
+DOMAIN-KEYWORD,hkdvb
+DOMAIN-KEYWORD,video.mytvsuper.xyz
+DOMAIN-KEYWORD,nodeseek
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,platformio.org
+
+# Rockstar-Games
+DOMAIN-SUFFIX,rockstargames,RockstarGames
+DOMAIN-KEYWORD,rockstar,RockstarGames
+
+# 黎明杀机
+DOMAIN-KEYWORD,googlehosted
+DOMAIN-KEYWORD,bhvronline
+DOMAIN-KEYWORD,bhvrdbd
+# other
+DOMAIN-KEYWORD,uscis
+DOMAIN-KEYWORD,cults3d
+DOMAIN-KEYWORD,thingiverse
+DOMAIN-KEYWORD,platformio
+DOMAIN-KEYWORD,browserleaks
+DOMAIN-KEYWORD,visualstudio
+DOMAIN-KEYWORD,browserscan
+DOMAIN-SUFFIX,stream-link.org
+
+DOMAIN-KEYWORD,qd.je
+
+
+
+

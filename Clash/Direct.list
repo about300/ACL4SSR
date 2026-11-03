@@ -1,0 +1,43 @@
+# NAS 更新 / 套件 / 账户 / DDNS / IP检测 / QuickConnect 直连列表
+
+# 主域名后缀匹配（覆盖大部分子域名）
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.me
+
+# QuickConnect
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+
+# 更新 / 下载 / 套件（关键词匹配）
+DOMAIN-KEYWORD,global.download.synology
+DOMAIN-KEYWORD,global.synologydownload
+DOMAIN-KEYWORD,update.synology
+DOMAIN-KEYWORD,update7.synology
+DOMAIN-KEYWORD,autoupdate.synology
+DOMAIN-KEYWORD,autoupdate7.synology
+DOMAIN-KEYWORD,payment.synology
+DOMAIN-KEYWORD,cndl.synology
+DOMAIN-KEYWORD,download.synology
+DOMAIN-KEYWORD,pkgautoupdate7.synology
+DOMAIN-KEYWORD,pkgupdate7.synology
+DOMAIN-KEYWORD,pkgautoupdate.synologyupdate
+DOMAIN-KEYWORD,dataupdate.synology
+DOMAIN-KEYWORD,dataupdate7.synology
+DOMAIN-KEYWORD,dataautoupdate7.synology
+
+# 账户验证
+DOMAIN-KEYWORD,account.synology
+DOMAIN-KEYWORD,identity.synology
+
+# DDNS
+DOMAIN-KEYWORD,ddns.synology
+
+# IP检测
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN,checkip.dyndns.org
+
+# 网站
+DOMAIN-KEYWORD,www.synology
